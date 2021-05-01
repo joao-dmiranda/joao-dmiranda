@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/johnnykeys20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="johnnykeys20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/joão-victor-chaves-de-miranda-24a4571b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joão-victor-chaves-de-miranda-24a4571b6/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:116903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="user:116903" height="30" width="40" /></a>
+<a href="https://twitter.com/johnnykeys20" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="johnnykeys20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/joão-victor-chaves-de-miranda-24a4571b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin.com/in/joão-victor-chaves-de-miranda-24a4571b6/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:116903" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/2111/2111628.png" alt="user:116903" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
